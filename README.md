@@ -10,3 +10,4 @@ c.	“Creación_Variables.ipynb”
 d.	“EDA.ipynb”
 e.	“Entrenamiento_Modelos.ipynb” Este puede demorar alrededor 20 minutos
 f.	“Backtesting.ipynb” Se puede cambiar la acción a analizar cambiando el CSV_PATH = './Processed Data2/####.csv'
+
