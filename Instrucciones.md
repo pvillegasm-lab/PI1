@@ -17,7 +17,7 @@ e.	“Entrenamiento_Modelos.ipynb” Este puede demorar alrededor 20 minutos
 
 f.	“Backtesting.ipynb” Se puede cambiar la acción a analizar cambiando el CSV_PATH = './Processed Data2/####.csv'
 
-**Ejecución por Google Colab  desde Google Drive: https://drive.google.com/drive/folders/1H9XxlMeRKKvPsRjeVGKBT-YS40EesA2s?usp=sharing **
+**Ejecución por Google Colab  desde Google Drive:** https://drive.google.com/drive/folders/1H9XxlMeRKKvPsRjeVGKBT-YS40EesA2s?usp=sharing
 
 Es necesario dar permiso al código para acceder a Google Drive para leer los datos y es necesario cambiar rutas de acuerdo con la organización de su Drive. 
 
