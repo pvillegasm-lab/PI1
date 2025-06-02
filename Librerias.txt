@@ -1,0 +1,7 @@
+pip isntall pandas
+pip install os-sys
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install sklearn
+pip install joblib 
